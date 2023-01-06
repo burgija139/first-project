@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("carli je cava");
+    printf("carli je velika cava");
 }
+
 
